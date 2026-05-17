@@ -90,10 +90,6 @@ Modify text, images, and links directly in `index.html`
 ### Add New Sections
 Use the existing HTML structure as a template and maintain the CSS styling conventions
 
-## 📧 Contact
-
-For more information about Brew & Play, connect with us through the website.
-
 ## 📄 License
 
 This project is open source and available for educational purposes.
